@@ -1,0 +1,11 @@
+{
+    "name": "yuhari/annotation",
+    "require": {
+        "doctrine/annotations": "^1.6"
+    },
+	"autoload": {
+		"psr-4" : {
+			"Util\\" : "src"
+		}
+	}
+}
